@@ -57,3 +57,7 @@ rango = np.linalg.matrix_rank(matriz_resultante)
 
 # Mostrar el resultado final
 print("El rango de la matriz resultante es:", rango)
+import os
+os.environ["OPENBLAS_NUM_THREADS"] = "1"
+
+import numpy as np
