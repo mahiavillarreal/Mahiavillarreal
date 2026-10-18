@@ -1,4 +1,4 @@
-# Desafío 12: Formateo de Factura
+# Desafío 11: Formateo de Factura
 # Este programa solicita los datos de un producto,
 # calcula el importe total de la compra
 # y muestra una factura con la información ingresada.
